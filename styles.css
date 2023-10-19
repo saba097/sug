@@ -11,6 +11,7 @@ input[type=text], select, textarea {
   }
   
   
+  {
     background-color: #04AA6D;
     color: white;
     padding: 12px 20px;
